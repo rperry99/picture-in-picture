@@ -9,6 +9,8 @@ This is project 3 / 20.
 
 The live project can be found [here](https://rperry99.github.io/picture-in-picture/).
 
+You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
+
 ### Instructions
 
 **_This works best in Chrome on the desktop_**
